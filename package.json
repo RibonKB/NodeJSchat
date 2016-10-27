@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "Basic Chat Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "RibonKB",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-static": "^0.7.9",
+    "socket.io": "^1.5.1"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/RibonKB/NodeJSchat"
+  }
+}
